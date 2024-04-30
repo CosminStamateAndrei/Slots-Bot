@@ -1,0 +1,108 @@
+{
+    "users": [
+        {
+            "user_id": "318735911330250752",
+            "name": "Osamu",
+            "level": 2,
+            "coins": 0,
+            "experience": 1,
+            "multiplier": 1.4,
+            "moderator": "False",
+            "prevMess": 1627155045.145584,
+            "prevAntispam": 1627155045.70266,
+            "antispam": 0,
+            "warns": 1
+        },
+        {
+            "user_id": "518331788880510979",
+            "name": "Chihiro",
+            "level": 11,
+            "coins": 0,
+            "experience": 31,
+            "multiplier": 7.799999999999999,
+            "moderator": "True",
+            "prevMess": 1666632287.8480203,
+            "prevAntispam": 1636208708.8529003,
+            "antispam": 1,
+            "warns": 0
+        },
+        {
+            "user_id": "786515106258354206",
+            "name": "ExpectationsBot",
+            "level": 1,
+            "coins": 0,
+            "experience": 0,
+            "multiplier": 1,
+            "moderator": "False",
+            "prevMess": 0,
+            "prevAntispam": 0,
+            "antispam": 0,
+            "warns": 0
+        },
+        {
+            "user_id": "354998428830269440",
+            "name": "Thesatung",
+            "level": 1,
+            "coins": 0,
+            "experience": 0,
+            "multiplier": 1,
+            "prevMess": 1624562120.3765495,
+            "prevAntispam": 0,
+            "antispam": 0,
+            "moderator": "False",
+            "warns": 0
+        },
+        {
+            "user_id": "248143211007180810",
+            "name": "Flavius",
+            "level": 1,
+            "coins": 0,
+            "experience": 4,
+            "multiplier": 1,
+            "prevMess": 1636310062.4854994,
+            "prevAntispam": 1627156147.0735497,
+            "antispam": 0,
+            "moderator": "False",
+            "warns": 0
+        },
+        {
+            "user_id": "341141551411494914",
+            "name": "Hor1a",
+            "level": 3,
+            "coins": 0,
+            "experience": 2,
+            "multiplier": 2.6,
+            "prevMess": 1635940959.4977427,
+            "prevAntispam": 1635940962.0744517,
+            "antispam": 0,
+            "moderator": "False",
+            "warns": 0
+        },
+        {
+            "user_id": "333975635083001858",
+            "name": "Ezitreal",
+            "level": 3,
+            "experience": 5,
+            "multiplier": 2.6,
+            "prevMess": 1635953884.338486,
+            "prevAntispam": 1635953886.455968,
+            "antispam": 0,
+            "warns": 0,
+            "moderator": "False",
+            "coins": 0
+        },
+        {
+            "user_id": "526063499525226505",
+            "name": "Mihai",
+            "level": 1,
+            "experience": 2,
+            "multiplier": 1,
+            "prevMess": 1636310019.6950836,
+            "prevAntispam": 0,
+            "antispam": 0,
+            "warns": 0,
+            "moderator": "False",
+            "coins": 0
+        }
+    ]
+}
